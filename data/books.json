@@ -1,0 +1,272 @@
+[
+  {
+    "id": "1",
+    "title": "The Little Rocket",
+    "author": "A. Starling",
+    "price": 7.99,
+    "theme": "Adventures",
+    "image": "/books/book-1.jpg",
+    "description": "A small rocket goes on a big adventure across the galaxy."
+  },
+  {
+    "id": "2",
+    "title": "Forest Compass",
+    "author": "L. North",
+    "price": 6.5,
+    "theme": "Adventures",
+    "image": "/books/book-2.jpg",
+    "description": "Two friends follow a map and discover the joy of exploration."
+  },
+  {
+    "id": "3",
+    "title": "Pirate Picnic",
+    "author": "S. Cove",
+    "price": 7.0,
+    "theme": "Adventures",
+    "image": "/books/book-3.jpg",
+    "description": "A playful pirate tale perfect for early readers."
+  },
+  {
+    "id": "4",
+    "title": "Hidden Waterfall",
+    "author": "R. Glen",
+    "price": 8.25,
+    "theme": "Adventures",
+    "image": "/books/book-4.jpg",
+    "description": "An adventure to find a secret waterfall and make new friends."
+  },
+  {
+    "id": "5",
+    "title": "Sky Sailors",
+    "author": "C. Breeze",
+    "price": 9.0,
+    "theme": "Adventures",
+    "image": "/books/book-5.jpg",
+    "description": "A flight across cotton-candy clouds with brave little sailors."
+  },
+  {
+    "id": "6",
+    "title": "Desert of Stars",
+    "author": "A. Wells",
+    "price": 8.5,
+    "theme": "Adventures",
+    "image": "/books/book-6.jpg",
+    "description": "Nighttime desert journey with twinkling surprises."
+  },
+  {
+    "id": "7",
+    "title": "Moonlight Fairy",
+    "author": "F. Lark",
+    "price": 8.5,
+    "theme": "Fairy Tales",
+    "image": "/books/book-7.jpg",
+    "description": "A bedtime fairy tale about kindness and courage."
+  },
+  {
+    "id": "8",
+    "title": "The Tiny Mermaid",
+    "author": "E. Shore",
+    "price": 7.25,
+    "theme": "Fairy Tales",
+    "image": "/books/book-8.jpg",
+    "description": "Underwater adventures and new friendships."
+  },
+  {
+    "id": "9",
+    "title": "Wishing Tree",
+    "author": "P. Bloom",
+    "price": 7.0,
+    "theme": "Fairy Tales",
+    "image": "/books/book-9.jpg",
+    "description": "A magical tree that grants small, gentle wishes."
+  },
+  {
+    "id": "10",
+    "title": "The Lost Crown",
+    "author": "G. Sprite",
+    "price": 8.75,
+    "theme": "Fairy Tales",
+    "image": "/books/book-10.jpg",
+    "description": "A fairy helps a timid prince find his courage."
+  },
+  {
+    "id": "11",
+    "title": "Starlight Shoes",
+    "author": "I. Twine",
+    "price": 6.99,
+    "theme": "Fairy Tales",
+    "image": "/books/book-11.jpg",
+    "description": "Shoes that dance under the stars."
+  },
+  {
+    "id": "12",
+    "title": "Petal Princess",
+    "author": "M. Fawn",
+    "price": 9.25,
+    "theme": "Fairy Tales",
+    "image": "/books/book-12.jpg",
+    "description": "A gentle tale about kindness and gardens."
+  },
+  {
+    "id": "13",
+    "title": "STEM in the Woods",
+    "author": "Dr. P. Rowan",
+    "price": 9.25,
+    "theme": "Learning & STEM",
+    "image": "/books/book-13.jpg",
+    "description": "Simple experiments and puzzles for curious kids."
+  },
+  {
+    "id": "14",
+    "title": "Counting Critters",
+    "author": "L. Count",
+    "price": 6.5,
+    "theme": "Learning & STEM",
+    "image": "/books/book-14.jpg",
+    "description": "A counting adventure with friendly animals."
+  },
+  {
+    "id": "15",
+    "title": "Shapes Everywhere",
+    "author": "A. Grid",
+    "price": 7.0,
+    "theme": "Learning & STEM",
+    "image": "/books/book-15.jpg",
+    "description": "Find shapes around the playground and learn geometry."
+  },
+  {
+    "id": "16",
+    "title": "Little Engineers",
+    "author": "T. Bolt",
+    "price": 8.25,
+    "theme": "Learning & STEM",
+    "image": "/books/book-16.jpg",
+    "description": "Build tiny bridges and learn through play."
+  },
+  {
+    "id": "17",
+    "title": "Why Do Leaves Fall?",
+    "author": "S. Oak",
+    "price": 6.75,
+    "theme": "Learning & STEM",
+    "image": "/books/book-17.jpg",
+    "description": "A nature-science book explaining seasons."
+  },
+  {
+    "id": "18",
+    "title": "Code with Colors",
+    "author": "R. Byte",
+    "price": 9.5,
+    "theme": "Learning & STEM",
+    "image": "/books/book-18.jpg",
+    "description": "Intro to logic and sequencing using colors."
+  },
+  {
+    "id": "19",
+    "title": "Brave Little Heart",
+    "author": "M. Rivers",
+    "price": 6.75,
+    "theme": "Empathy",
+    "image": "/books/book-19.jpg",
+    "description": "A warm story about feelings and friendship."
+  },
+  {
+    "id": "20",
+    "title": "Friends on the Hill",
+    "author": "K. Vale",
+    "price": 7.5,
+    "theme": "Empathy",
+    "image": "/books/book-20.jpg",
+    "description": "Learning to listen and share with pals."
+  },
+  {
+    "id": "21",
+    "title": "The Caring Cloud",
+    "author": "H. Moore",
+    "price": 8.0,
+    "theme": "Empathy",
+    "image": "/books/book-21.jpg",
+    "description": "A cloud teaches children how words affect others."
+  },
+  {
+    "id": "22",
+    "title": "My Little Helper",
+    "author": "S. Greer",
+    "price": 6.25,
+    "theme": "Empathy",
+    "image": "/books/book-22.jpg",
+    "description": "Encouraging acts of kindness and teamwork."
+  },
+  {
+    "id": "23",
+    "title": "Big Feelings, Small Me",
+    "author": "R. Lynn",
+    "price": 7.99,
+    "theme": "Empathy",
+    "image": "/books/book-23.jpg",
+    "description": "Naming and understanding emotions for kids."
+  },
+  {
+    "id": "24",
+    "title": "The Sharing Basket",
+    "author": "O. Hart",
+    "price": 8.5,
+    "theme": "Empathy",
+    "image": "/books/book-24.jpg",
+    "description": "A story about generosity and caring."
+  },
+  {
+    "id": "25",
+    "title": "Sleepy Stars",
+    "author": "N. Willow",
+    "price": 8.0,
+    "theme": "Bedtime Stories",
+    "image": "/books/book-25.jpg",
+    "description": "A soothing nighttime story to help little ones wind down."
+  },
+  {
+    "id": "26",
+    "title": "Goodnight Train",
+    "author": "P. Rails",
+    "price": 6.5,
+    "theme": "Bedtime Stories",
+    "image": "/books/book-26.jpg",
+    "description": "A gentle ride to bedtime with soft rhymes."
+  },
+  {
+    "id": "27",
+    "title": "The Cozy Nest",
+    "author": "A. Feather",
+    "price": 7.25,
+    "theme": "Bedtime Stories",
+    "image": "/books/book-27.jpg",
+    "description": "Snuggly animals prepare for sleep together."
+  },
+  {
+    "id": "28",
+    "title": "Moonbeam Lullaby",
+    "author": "S. Tune",
+    "price": 9.0,
+    "theme": "Bedtime Stories",
+    "image": "/books/book-28.jpg",
+    "description": "A lyrical lullaby to calm the busiest minds."
+  },
+  {
+    "id": "29",
+    "title": "Counting Sheep",
+    "author": "N. Wool",
+    "price": 6.75,
+    "theme": "Bedtime Stories",
+    "image": "/books/book-29.jpg",
+    "description": "A playful rhyme to ease into sleep."
+  },
+  {
+    "id": "30",
+    "title": "Night Sky Wishes",
+    "author": "E. Star",
+    "price": 8.25,
+    "theme": "Bedtime Stories",
+    "image": "/books/book-30.jpg",
+    "description": "Star-gazing and the magic of wonder at night."
+  }
+]
