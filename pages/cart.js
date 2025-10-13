@@ -1,4 +1,5 @@
 import Header from "../components/Header";
+import Image from "next/image";
 import { useCart } from "../lib/cartContext";
 
 export default function CartPage() {
@@ -19,11 +20,13 @@ export default function CartPage() {
                 key={item.id}
                 className="flex items-center gap-4 border rounded p-3 bg-white dark:bg-gray-800"
               >
-                <div className="w-20 h-28 relative">
-                  <img
+                <div className="w-20 h-28 relative overflow-hidden rounded">
+                  <Image
                     src="/books/book-1.jpg"
                     alt={item.title}
-                    className="object-cover w-full h-full rounded"
+                    fill
+                    className="object-cover"
+                    sizes="80px"
                   />
                 </div>
                 <div className="flex-1">

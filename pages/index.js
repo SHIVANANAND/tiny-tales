@@ -4,6 +4,7 @@ import Hero from "../components/Hero";
 import ThemeCards from "../components/ThemeCards";
 import CTA from "../components/CTA";
 import Footer from "../components/Footer";
+import Stories from "../components/Stories";
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
       <div>
         <Header />
         <main className="container mx-auto px-4 py-8">
+          <Stories />
           <Hero />
           <section className="mt-12">
             <h2 className="text-center text-2xl font-serif text-tt-gold">
