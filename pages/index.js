@@ -1,29 +1,32 @@
-import { HeaderNew } from "../components/HeaderNew";
-import { HeroNew } from "../components/HeroNew";
-import { ThemeCategories } from "../components/ThemeCategories";
-import { CauseAwareness } from "../components/CauseAwareness";
-import { ParentsGuide } from "../components/ParentsGuide";
-import { FunFacts } from "../components/FunFacts";
-import { FeaturedBooks } from "../components/FeaturedBooks";
-import { CTANew } from "../components/CTANew";
-import { FooterNew } from "../components/FooterNew";
+import Head from "next/head";
+import Header from "../components/Header";
+import Hero from "../components/Hero";
+import ThemeCards from "../components/ThemeCards";
+import CTA from "../components/CTA";
+import Footer from "../components/Footer";
+import Stories from "../components/Stories";
 
-export default function App() {
+export default function Home() {
   return (
-    <div className="min-h-screen bg-gradient-to-b from-orange-50 via-white to-amber-50 flex flex-col">
-      <HeaderNew />
-      <main className="flex-1">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <section className="mb-12"><HeroNew /></section>
-          <section className="mb-12"><ThemeCategories /></section>
-          <section className="mb-12"><CauseAwareness /></section>
-          <section className="mb-12"><ParentsGuide /></section>
-          <section className="mb-12"><FunFacts /></section>
-          <section className="mb-12"><FeaturedBooks /></section>
-          <section className="mb-12"><CTANew /></section>
-        </div>
-      </main>
-  {/* FooterNew is rendered globally in _app.js */}
-    </div>
+    <>
+      <Head>
+        <title>TinyTales - Kids Bookstore</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+      </Head>
+      <div>
+        <Header />
+        <main className="container mx-auto px-4 py-8">
+          <Stories />
+          <Hero />
+          <section className="mt-12">
+            <h2 className="text-center text-2xl font-serif text-tt-gold">
+              Discover by Theme
+            </h2>
+            <ThemeCards />
+          </section>
+          <CTA />
+        </main>
+      </div>
+    </>
   );
 }
