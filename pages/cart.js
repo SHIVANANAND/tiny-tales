@@ -1,4 +1,4 @@
-import Header from "../components/Header";
+import Header from "../components/HeaderNew";
 import Image from "next/image";
 import { useCart } from "../lib/cartContext";
 
