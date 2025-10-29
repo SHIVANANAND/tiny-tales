@@ -4,7 +4,10 @@
     "title": "The Little Rocket",
     "author": "A. Starling",
     "price": 7.99,
+    "originalPrice": 9.99,
+    "discount": 20,
     "theme": "Adventures",
+    "category": "Board Book",
     "image": "/books/book-1.jpg",
     "description": "A small rocket goes on a big adventure across the galaxy."
   },
@@ -14,6 +17,7 @@
     "author": "L. North",
     "price": 6.5,
     "theme": "Adventures",
+    "category": "Board Book",
     "image": "/books/book-2.jpg",
     "description": "Two friends follow a map and discover the joy of exploration."
   },
@@ -22,7 +26,10 @@
     "title": "Pirate Picnic",
     "author": "S. Cove",
     "price": 7.0,
+    "originalPrice": 8.75,
+    "discount": 20,
     "theme": "Adventures",
+    "category": "Cloth Book",
     "image": "/books/book-3.jpg",
     "description": "A playful pirate tale perfect for early readers."
   },
@@ -32,6 +39,7 @@
     "author": "R. Glen",
     "price": 8.25,
     "theme": "Adventures",
+    "category": "Cards",
     "image": "/books/book-4.jpg",
     "description": "An adventure to find a secret waterfall and make new friends."
   },
@@ -40,7 +48,10 @@
     "title": "Sky Sailors",
     "author": "C. Breeze",
     "price": 9.0,
+    "originalPrice": 9.47,
+    "discount": 5,
     "theme": "Adventures",
+    "category": "Padded Book",
     "image": "/books/book-5.jpg",
     "description": "A flight across cotton-candy clouds with brave little sailors."
   },
@@ -268,5 +279,59 @@
     "theme": "Bedtime Stories",
     "image": "/books/book-30.jpg",
     "description": "Star-gazing and the magic of wonder at night."
+  },
+  {
+    "id": "31",
+    "title": "Forest Friends",
+    "author": "B. Woodland",
+    "price": 7.50,
+    "theme": "Animals & Nature",
+    "image": "/books/book-31.jpg",
+    "description": "Meet the amazing creatures that live in the forest and learn about their homes."
+  },
+  {
+    "id": "32",
+    "title": "Ocean Adventures",
+    "author": "S. Wave",
+    "price": 8.99,
+    "theme": "Animals & Nature",
+    "image": "/books/book-32.jpg",
+    "description": "Dive deep into the ocean to discover colorful fish and sea creatures."
+  },
+  {
+    "id": "33",
+    "title": "Butterfly Garden",
+    "author": "L. Bloom",
+    "price": 6.75,
+    "theme": "Animals & Nature",
+    "image": "/books/book-33.jpg",
+    "description": "Follow a caterpillar's journey to becoming a beautiful butterfly."
+  },
+  {
+    "id": "34",
+    "title": "Backyard Safari",
+    "author": "M. Explorer",
+    "price": 7.25,
+    "theme": "Animals & Nature",
+    "image": "/books/book-34.jpg",
+    "description": "Discover the tiny creatures living right in your own backyard."
+  },
+  {
+    "id": "35",
+    "title": "Mountain Bears",
+    "author": "R. Peak",
+    "price": 8.50,
+    "theme": "Animals & Nature",
+    "image": "/books/book-35.jpg",
+    "description": "A heartwarming story about a bear family living in the mountains."
+  },
+  {
+    "id": "36",
+    "title": "Rainforest Sounds",
+    "author": "T. Canopy",
+    "price": 9.25,
+    "theme": "Animals & Nature",
+    "image": "/books/book-36.jpg",
+    "description": "Listen to the amazing sounds of the rainforest and meet its residents."
   }
 ]
